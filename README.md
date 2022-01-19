@@ -1,7 +1,3 @@
-![Format](../../actions/workflows/format.yml/badge.svg)
-![Header](../../actions/workflows/header.yml/badge.svg)
-![Lint](../../actions/workflows/lint.yml/badge.svg)
-
 **NOTE**: This is an incomplete game. There is no sound, and the player cannot be killed. I tried forever to get the player collision to work but it does not seem to want to work for some reason. You can kill enemies. I got caught up in trying to apply functional programming to this project and that's why it's in this state. I learned a lot from this and I am grateful for the experience.
 
 # Space Invaders!
